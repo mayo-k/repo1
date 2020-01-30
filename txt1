@@ -12,6 +12,25 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m8.png" group-title="SG/MY",8TV
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeOCz0PE_iXhihm3KjO5Ags)/dm/3/x6qud17/s/live-4.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tba.png" group-title="Taiwan",八大综合台
+http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tzh.png" group-title="Taiwan",中天综合台
+http://cdn.5itv.tv//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tdonews.png" group-title="Taiwan",东森新闻台
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tsanews.png" group-title="Taiwan",三立新闻台
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tminews.png" group-title="Taiwan",民视新闻台
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tan.png" group-title="Taiwan",动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tho.png" group-title="Taiwan",好莱坞电影台
+http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/twa.png" group-title="Taiwan",Warner TV
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tbaby.png" group-title="Taiwan",BabyFirst 台湾
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cji.png" group-title="China",江苏卫视
 http://39.135.34.157:18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=1106497909461243101&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm%2bh%2bLn%2bBGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW%2fJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/chu.png" group-title="China",湖南卫视
