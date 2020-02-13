@@ -8,11 +8,11 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m2.png" group-title="SG/MY",RTM 2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m3.png" group-title="SG/MY",TV3
-https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nzf_23OkvUlbMYsOtQhOxc)/dm/3/x7a7rpm/s/live-4.m3u8
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pUq46U4SlJunW1aqI5xJi0)/dm/3/x7a7rpm/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m7.png" group-title="SG/MY",NTV7
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08uEpivZSuCdKYj1-6Xz0GMQ)/dm/3/x7a7rxp/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08i8U-mU7Z562JF0W33ctDYI)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m8.png" group-title="SG/MY",8TV
-https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gNtuvwLm9wEPVYiUKvL8QI)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08s9oOJtAu4B7CXdslXFm14A)/dm/3/x7a7ru1/s/live-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tba.png" group-title="Taiwan",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
