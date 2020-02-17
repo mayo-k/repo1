@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/s8.png" group-title="SG/MY",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/su.png" group-title="SG/MY",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/s5.png" group-title="SG/MY",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/sc.png" group-title="SG/MY",CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/m1.png" group-title="SG/MY",RTM 1
