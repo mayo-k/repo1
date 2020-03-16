@@ -46,3 +46,24 @@ http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ys
 http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/c17.png" group-title="China-CCTV",CCTV-17 农村农业
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 骄阳剧场
+http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 古装剧场
+http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 喜剧影院
+http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 情感影院
+http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 流金岁月
+http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 精品影院
+http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 新知
+http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 电影
+http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 院线大片
+http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/cc.png" group-title="China-CIBN",CIBN 好莱坞片
+http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
