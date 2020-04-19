@@ -21,7 +21,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tba.png" group-title="Taiwan",八大综合台
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tzh.png" group-title="Taiwan",中天综合台
-http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tzhtyl.png" group-title="Taiwan",中天娱乐台
+http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tdonews.png" group-title="Taiwan",东森新闻台
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mayo-k/repo1/master/fd1/tsanews.png" group-title="Taiwan",三立新闻台
